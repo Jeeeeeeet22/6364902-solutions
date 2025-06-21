@@ -1,1 +1,0 @@
-# Cognizant learning problems solution
