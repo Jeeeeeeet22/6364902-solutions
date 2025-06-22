@@ -47,9 +47,6 @@ class Program
             Console.WriteLine($"ID: {p.ProductId}, Name: {p.ProductName}, Category: {p.Category}");
         }
 
-        // ========================
-        // 🔍 Linear Search
-        // ========================
         Console.Write("\nEnter product name to search (Linear Search): ");
         string linearSearchName = Console.ReadLine();
 
@@ -63,9 +60,6 @@ class Program
             Console.WriteLine("[Linear] Product not found.");
         }
 
-        // ========================
-        // 🔍 Binary Search
-        // ========================
         Product[] productArray = products.ToArray();
         Array.Sort(productArray, (a, b) => a.ProductName.CompareTo(b.ProductName));
 
@@ -83,7 +77,6 @@ class Program
         }
     }
 
-    // ========== Linear Search ==========
     static Product LinearSearch(Product[] products, string name)
     {
         foreach (var p in products)
@@ -94,7 +87,6 @@ class Program
         return null;
     }
 
-    // ========== Binary Search ==========
     static Product BinarySearch(Product[] products, string name)
     {
         int left = 0;
