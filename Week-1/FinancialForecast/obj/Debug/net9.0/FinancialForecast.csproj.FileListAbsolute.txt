@@ -1,0 +1,15 @@
+C:\Users\KIIT\6364902-solutions\Week-1\FinancialForecast\bin\Debug\net9.0\FinancialForecast.exe
+C:\Users\KIIT\6364902-solutions\Week-1\FinancialForecast\bin\Debug\net9.0\FinancialForecast.deps.json
+C:\Users\KIIT\6364902-solutions\Week-1\FinancialForecast\bin\Debug\net9.0\FinancialForecast.runtimeconfig.json
+C:\Users\KIIT\6364902-solutions\Week-1\FinancialForecast\bin\Debug\net9.0\FinancialForecast.dll
+C:\Users\KIIT\6364902-solutions\Week-1\FinancialForecast\bin\Debug\net9.0\FinancialForecast.pdb
+C:\Users\KIIT\6364902-solutions\Week-1\FinancialForecast\obj\Debug\net9.0\FinancialForecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\6364902-solutions\Week-1\FinancialForecast\obj\Debug\net9.0\FinancialForecast.AssemblyInfoInputs.cache
+C:\Users\KIIT\6364902-solutions\Week-1\FinancialForecast\obj\Debug\net9.0\FinancialForecast.AssemblyInfo.cs
+C:\Users\KIIT\6364902-solutions\Week-1\FinancialForecast\obj\Debug\net9.0\FinancialForecast.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\6364902-solutions\Week-1\FinancialForecast\obj\Debug\net9.0\FinancialForecast.sourcelink.json
+C:\Users\KIIT\6364902-solutions\Week-1\FinancialForecast\obj\Debug\net9.0\FinancialForecast.dll
+C:\Users\KIIT\6364902-solutions\Week-1\FinancialForecast\obj\Debug\net9.0\refint\FinancialForecast.dll
+C:\Users\KIIT\6364902-solutions\Week-1\FinancialForecast\obj\Debug\net9.0\FinancialForecast.pdb
+C:\Users\KIIT\6364902-solutions\Week-1\FinancialForecast\obj\Debug\net9.0\FinancialForecast.genruntimeconfig.cache
+C:\Users\KIIT\6364902-solutions\Week-1\FinancialForecast\obj\Debug\net9.0\ref\FinancialForecast.dll
