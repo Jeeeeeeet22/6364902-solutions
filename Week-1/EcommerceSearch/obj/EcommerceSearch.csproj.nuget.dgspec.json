@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KIIT\\6364902-solutions\\Week-1\\Financialforecast\\FinancialForecast.csproj": {}
+    "C:\\Users\\KIIT\\6364902-solutions\\Week-1\\EcommerceSearch\\EcommerceSearch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KIIT\\6364902-solutions\\Week-1\\Financialforecast\\FinancialForecast.csproj": {
+    "C:\\Users\\KIIT\\6364902-solutions\\Week-1\\EcommerceSearch\\EcommerceSearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KIIT\\6364902-solutions\\Week-1\\Financialforecast\\FinancialForecast.csproj",
-        "projectName": "FinancialForecast",
-        "projectPath": "C:\\Users\\KIIT\\6364902-solutions\\Week-1\\Financialforecast\\FinancialForecast.csproj",
+        "projectUniqueName": "C:\\Users\\KIIT\\6364902-solutions\\Week-1\\EcommerceSearch\\EcommerceSearch.csproj",
+        "projectName": "EcommerceSearch",
+        "projectPath": "C:\\Users\\KIIT\\6364902-solutions\\Week-1\\EcommerceSearch\\EcommerceSearch.csproj",
         "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KIIT\\6364902-solutions\\Week-1\\Financialforecast\\obj\\",
+        "outputPath": "C:\\Users\\KIIT\\6364902-solutions\\Week-1\\EcommerceSearch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KIIT\\AppData\\Roaming\\NuGet\\NuGet.Config"
