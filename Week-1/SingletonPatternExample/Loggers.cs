@@ -3,10 +3,8 @@ public class Logger
     private static Logger _instance;
     private static readonly object _lock = new object();
 
-    // Private constructor prevents instantiation from outside
     private Logger() {}
 
-    // Public static method to get the singleton instance
     public static Logger GetInstance()
     {
         if (_instance == null)

@@ -12,7 +12,6 @@ int years = int.Parse(Console.ReadLine());
 double futureValue = CalculateFutureValue(initialAmount, growthRate, years);
 Console.WriteLine($"\nFuture Value after {years} years: {futureValue:F2}");
 
-// Recursive function to calculate future value
 double CalculateFutureValue(double amount, double rate, int years)
 {
     if (years == 0)
