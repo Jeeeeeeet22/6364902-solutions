@@ -1,0 +1,8 @@
+C:\Users\KIIT\6364902-solutions\Week-2\CalculatorTests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_CalculatorTests
+C:\Users\KIIT\6364902-solutions\Week-2\CalculatorTests\bin\Debug\net9.0\CoverletSourceRootsMapping_CalculatorTests
+C:\Users\KIIT\6364902-solutions\Week-2\CalculatorTests\obj\Debug\net9.0\CalculatorTests.csproj.AssemblyReference.cache
+C:\Users\KIIT\6364902-solutions\Week-2\CalculatorTests\obj\Debug\net9.0\CalculatorTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\6364902-solutions\Week-2\CalculatorTests\obj\Debug\net9.0\CalculatorTests.AssemblyInfoInputs.cache
+C:\Users\KIIT\6364902-solutions\Week-2\CalculatorTests\obj\Debug\net9.0\CalculatorTests.AssemblyInfo.cs
+C:\Users\KIIT\6364902-solutions\Week-2\CalculatorTests\obj\Debug\net9.0\CalculatorTests.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\6364902-solutions\Week-2\CalculatorTests\obj\Debug\net9.0\CalculatorTests.sourcelink.json
