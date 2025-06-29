@@ -1,24 +1,17 @@
--- ============================================
--- Create Database (optional)
--- ============================================
+
 CREATE DATABASE EmployeeDB;
 GO
 
 USE EmployeeDB;
 GO
 
--- ============================================
--- Create Departments Table
--- ============================================
 CREATE TABLE Departments (
     DepartmentID INT PRIMARY KEY,
     DepartmentName VARCHAR(100)
 );
 GO
 
--- ============================================
--- Create Employees Table
--- ============================================
+
 CREATE TABLE Employees (
     EmployeeID INT PRIMARY KEY IDENTITY(1,1),
     FirstName VARCHAR(50),
@@ -29,9 +22,7 @@ CREATE TABLE Employees (
 );
 GO
 
--- ============================================
--- Insert Departments Sample Data
--- ============================================
+
 INSERT INTO Departments (DepartmentID, DepartmentName) VALUES
 (1, 'HR'),
 (2, 'Finance'),
@@ -39,9 +30,7 @@ INSERT INTO Departments (DepartmentID, DepartmentName) VALUES
 (4, 'Marketing');
 GO
 
--- ============================================
--- Insert Expanded Employees Sample Data
--- ============================================
+
 INSERT INTO Employees (FirstName, LastName, DepartmentID, Salary, JoinDate) VALUES
 ('John', 'Doe', 1, 5000.00, '2020-01-15'),
 ('Jane', 'Smith', 2, 6000.00, '2019-03-22'),
@@ -55,10 +44,7 @@ INSERT INTO Employees (FirstName, LastName, DepartmentID, Salary, JoinDate) VALU
 ('Sarah', 'Taylor', 1, 5100.00, '2023-01-25');
 GO
 
--- ============================================
--- ============================================
--- ✅ Exercise 1: Stored Procedure to Retrieve Employee Details by Department
--- ============================================
+
 CREATE PROCEDURE sp_GetEmployeesByDepartment
     @DepartmentID INT
 AS
@@ -75,9 +61,6 @@ BEGIN
 END;
 GO
 
--- ============================================
--- ✅ Exercise 5: Stored Procedure to Return Total Number of Employees in a Department
--- ============================================
 CREATE PROCEDURE sp_GetEmployeeCountByDepartment
     @DepartmentID INT
 AS
@@ -89,16 +72,8 @@ BEGIN
 END;
 GO
 
--- ============================================
--- ✅ Test Stored Procedure for Exercise 1
--- Example: Get all employees in IT department (DepartmentID = 3)
--- ============================================
 EXEC sp_GetEmployeesByDepartment @DepartmentID = 3;
 GO
 
--- ============================================
--- ✅ Test Stored Procedure for Exercise 5
--- Example: Get total number of employees in HR department (DepartmentID = 1)
--- ============================================
 EXEC sp_GetEmployeeCountByDepartment @DepartmentID = 1;
 GO
