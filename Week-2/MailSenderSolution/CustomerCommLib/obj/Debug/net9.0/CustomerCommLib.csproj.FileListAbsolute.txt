@@ -1,0 +1,12 @@
+C:\Users\KIIT\6364902-solutions\Week-2\MailSenderSolution\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.deps.json
+C:\Users\KIIT\6364902-solutions\Week-2\MailSenderSolution\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.dll
+C:\Users\KIIT\6364902-solutions\Week-2\MailSenderSolution\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.pdb
+C:\Users\KIIT\6364902-solutions\Week-2\MailSenderSolution\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\6364902-solutions\Week-2\MailSenderSolution\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.AssemblyInfoInputs.cache
+C:\Users\KIIT\6364902-solutions\Week-2\MailSenderSolution\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.AssemblyInfo.cs
+C:\Users\KIIT\6364902-solutions\Week-2\MailSenderSolution\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\6364902-solutions\Week-2\MailSenderSolution\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.sourcelink.json
+C:\Users\KIIT\6364902-solutions\Week-2\MailSenderSolution\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.dll
+C:\Users\KIIT\6364902-solutions\Week-2\MailSenderSolution\CustomerCommLib\obj\Debug\net9.0\refint\CustomerCommLib.dll
+C:\Users\KIIT\6364902-solutions\Week-2\MailSenderSolution\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.pdb
+C:\Users\KIIT\6364902-solutions\Week-2\MailSenderSolution\CustomerCommLib\obj\Debug\net9.0\ref\CustomerCommLib.dll
