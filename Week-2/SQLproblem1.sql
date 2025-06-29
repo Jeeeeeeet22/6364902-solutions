@@ -1,17 +1,10 @@
--- ============================================
--- Demo: ROW_NUMBER(), RANK(), DENSE_RANK()
--- Goal: Top 3 most expensive products per category
--- ============================================
 
--- 1️⃣ Create a new database
 CREATE DATABASE Ranking;
 GO
 
--- 2️⃣ Switch to the new database
 USE Ranking;
 GO
 
--- 3️⃣ Create the Products table
 CREATE TABLE Products (
     ProductID INT PRIMARY KEY,
     Name NVARCHAR(50),
@@ -20,7 +13,6 @@ CREATE TABLE Products (
 );
 GO
 
--- 4️⃣ Insert sample data
 INSERT INTO Products (ProductID, Name, Category, Price) VALUES
 (1, 'A', 'Shoes', 100),
 (2, 'B', 'Shoes', 90),
@@ -32,11 +24,9 @@ INSERT INTO Products (ProductID, Name, Category, Price) VALUES
 (8, 'H', 'Bags', 150);
 GO
 
--- 5️⃣ View the table (optional)
 SELECT * FROM Products;
 GO
 
--- 6️⃣ Run the ranking query
 SELECT *
 FROM (
     SELECT
